@@ -1,0 +1,7 @@
+---
+layout: post
+title: 'Ratio Smart Phone App: Video Demo'
+
+---
+
+<div class='posterous_autopost'><div class="posterous_bookmarklet_entry"> <object height="300" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="500"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/sKlFEB2z1Lk&amp;hl=en_US&amp;fs=1&amp;" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" src="http://www.youtube.com/v/sKlFEB2z1Lk&amp;hl=en_US&amp;fs=1&amp;" allowfullscreen="true" allowscriptaccess="always" height="300" width="500" /></embed></param></param></param></param></object>    <div class="posterous_quote_citation">via <a href="http://blog.ruhlman.com/2010/03/ratio-smart-phone-app-video-demo.html">blog.ruhlman.com</a></div> <p>Michael Ruhlman has put together a video demo of his excellent cooking I-phone app Ratio <a href="http://blog.ruhlman.com/2010/03/ratio-smart-phone-app-video-demo.html &lt;br&gt;">here</a>.  The app is based on his <a href="http://www.amazon.com/exec/obidos/ASIN/1416566112/ref=nosim/ruhlmancom">excellent book of the same name.</a></p></div>      <p style="font-size: 10px;">  <a href="http://posterous.com">Posted via web</a>   from <a href="http://random.peterkaizer.com/ratio-smart-phone-app-video-demo">Peter Kaizer's wanderings...</a>  </p>  </div>

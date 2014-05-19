@@ -1,0 +1,7 @@
+---
+layout: post
+title: 'Olympic Pictograms Through the Ages '
+
+---
+
+<div class='posterous_autopost'><div class="posterous_bookmarklet_entry"> <embed name="nytSWF" type="application/x-shockwave-flash" src="http://www.nytimes.com/packages/flash/multimedia/swfs/AS3Multiloader.swf" allowfullscreen="true" flashvars="contentPath=http://graphics8.nytimes.com/packages/flash/multimedia/VIDEO_PLAYER/NYTVideoEmbed.swf&amp;allowCaching=true&amp;embedId=embed89&amp;dataURL=&amp;videoURL=http://graphics8.nytimes.com/packages/flash/newsgraphics/2010/0224-pictograms/pictograms_600.flv&amp;videoImageURL=&amp;videoWidth=592&amp;videoHeight=334&amp;linkURL=&amp;linkLabel=&amp;autoPlay=false&amp;=" allowscriptaccess="always" height="307" wmode="opaque" quality="high" style="" width="500" />    <div class="posterous_quote_citation">via <a href="http://www.nytimes.com/interactive/2010/02/24/sports/olympics/pictograms-interactive.html?emc=eta1">nytimes.com</a></div> <p>As we leave this years Olympics behind, an interesting view of the importance and intersection of design and sport.  Courtesy Steven Heller and the NY Times <br /><a href="http://www.nytimes.com/interactive/2010/02/24/sports/olympics/pictograms-interactive.html">http://www.nytimes.com/interactive/2010/02/24/sports/olympics/pictograms-interactive.html</a></p></embed></div>      <p style="font-size: 10px;">  <a href="http://posterous.com">Posted via web</a>   from <a href="http://random.peterkaizer.com/olympic-pictograms-through-the-ages-28">Peter Kaizer's wanderings...</a>  </p>  </div>
