@@ -1,0 +1,108 @@
+---
+layout: portfolio
+title: 'Some examples of my work'
+---
+
+<div class="row">
+	<div class="col-md-6">
+		<h1>Some examples of my work</h1>
+
+		<p></p>
+
+	</div>
+
+	<div class="col-md-6">
+
+	</div>
+	
+</div>
+
+<div class="row">
+	<div class="col-md-7 portfolio-item">
+		<img src="/images/portfolio/crs-600.jpg" alt="" class="img-responsive" />
+	</div>
+	<div class="col-md-5 portfolio-item">
+		<h3>Catholic Relief Services</h3>
+
+		<p>Until recently, I was the digital director for Catholic Relief Services. My team managed front and back end development, online branding, user experience, information architecture and email marketing for all of the CRS websites.</p>
+
+
+		<hr>
+		<div class="row">
+			<div class="col-sm-12">
+			<p>
+				Role: Digital strategy, Online fund-raising, Front-end development, email marketing, SEO, PPC
+			</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="row">
+	<div class="col-md-7 portfolio-item">
+		<img src="/images/portfolio/sc-600.jpg" alt="" class="img-responsive" />
+	</div>
+	<div class="col-md-5 portfolio-item">
+		<h3>So Charmed</h3>
+
+		<p><a href="http://so-charmed.com/">So Charmed</a> is the jewlery website of Jodi Bloom, a terrific <a href="http://thedesignfarm.com/">graphic designer</a>, <a href="http://www.thebluemoon.com/4/sum98ficbloom.html">story teller</a> and talented designer of off beat jewelry. Each piece has a story behind it.</p>
+
+		<p>Jodi designed the interface and I developed the Wordpress Theme and publishing routine. Using the <a href="http://www.advancedcustomfields.com/">Advanced Custom Fields</a> plugin and the <a href="http://www.tipsandtricks-hq.com/wordpress-simple-paypal-shopping-cart-plugin-768">Simple Paypal Shopping Cart</a> plugin made for a simple and easy administrative user experience to publish new pieces, tell the story behind them and make them available for purchase via Paypal.</p>
+
+		<hr>
+		<div class="row">
+			<div class="col-sm-12">
+			<p>
+				Role: Front-end development, Wordpress themeing
+			</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-7 portfolio-item">
+		<img src="/images/portfolio/umd-tdpa-600.jpg" alt="" class="img-responsive" />
+	</div>
+	<div class="col-md-5 portfolio-item">
+		<h3>University of Maryland School of Theatre, Dance and Performance Studies</h3>
+
+		<p>Drupal 6 website for the University of Maryland School of Theatre, Dance and Performance Arts.</p>
+
+		<hr>
+		<div class="row">
+			<div class="col-sm-12">
+			<p>
+				Role: Front-end development, Drupal themeing, Information architecture 
+			</p>
+			</div>
+		</div>	
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-7 portfolio-item">
+		<img src="/images/portfolio/dsp-600.jpg" alt="" class="img-responsive" />
+	</div>
+	<div class="col-md-5 portfolio-item">
+		<h3>David Snyder Photography</h3>
+		<p>David Snyder is a photographer & photojournalist for non-profit organizations. He has lived and traveled al over the world. I designed and built his website as well as set him up in Campaign Monitor so he can send out html email newsletters. </p>
+		<hr>
+		<div class="row">
+			<div class="col-sm-12">
+			<p>
+				Role: Website design, Front-end development, Wordpress themeing, Email marketing, custom email design.
+			</p>
+			</div>
+		</div>
+
+		
+	</div>
+</div>
+
+
+
+
+
+

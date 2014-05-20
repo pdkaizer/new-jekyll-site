@@ -1,12 +1,50 @@
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="viewport" content="width=device-width">
-    <meta name="description" content="{{ site.description }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ page.title }}</title>
+        <meta http-equiv="cleartype" content="on">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="Description" content="Peter Kaizer: Digital Strategist, User Experience Architect, Front-end Developer, Mac Evangelist, Foodie, Dad, Husband" />
+        <meta name="keywords" content="Digital, Digital strategy, Front-end development, digital marketing" />
+        <meta name="name" content="Peter Kaizer">
 
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 
-</head>
+        <!-- Typography -->
+        <link href='http://fonts.googleapis.com/css?family=Droid+Sans|Raleway:400,300' rel='stylesheet' type='text/css'>
+        <!-- For all browsers -->
+        <link rel='stylesheet' href='/css/compiled-framework-styles.css'>
+        <link rel='stylesheet' href='/css/compiled-custom-styles.css'>
+        <link rel='stylesheet' href='/css/genericons/genericons.css'>
+
+    <!-- JavaScript -->
+    <script src='/js/modernizr-2.6.2-min.js'></script>
+
+    
+
+    <!-- Google Analytics code goes in this file -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-145398-25']);
+  _gaq.push(['_setDomainName', 'PeterKaizer.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="/js/html5shiv.js"></script>
+      <script src="/js/respond.min.js"></script>
+    <![endif]-->
+
+    </head>
+    <body>
