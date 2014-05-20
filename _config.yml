@@ -7,5 +7,5 @@ url: "http://peterkaizer.com"
 
 # Build settings
 markdown: kramdown
-permalink: /:title
+permalink: /:title/
 paginate: 6
