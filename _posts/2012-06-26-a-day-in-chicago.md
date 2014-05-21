@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A day in Chicago'
-
+date: June 26, 2012
 ---
 
 
