@@ -9,3 +9,4 @@ url: "http://peterkaizer.com"
 markdown: kramdown
 permalink: /:title/
 paginate: 6
+
