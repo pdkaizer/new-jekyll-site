@@ -3,12 +3,12 @@ layout: post
 title: "Design deliverables and the design process in a multi-viewport era"
 summary:  A great presentation about some new ways to approach the design process and what design deliverables to present a client.
 date: June 9, 2014
-
+tag: design
 ---
 
 There has been a lot of dialog lately in the web design field about what's the best method for giving design deliverables to your clients. In what is often referred to as a post-comp or responsive design era  we need to find new and more adaptive ways to present our designs to clients.
 
-Last week the fine folks at [Typecast](http://typecast.com/) teamed up with [Dan Mall](http://danielmall.com/) a great digital designer and the founder and creative director of [Super Friendly](http://superfriend.ly/) to do webcast called [Design deliverables for a post-comp era](http://typecast.com/seminars/post-comp).
+Last week the fine folks at [Typecast](http://typecast.com/) teamed up with [Dan Mall](http://danielmall.com/) a great digital designer and the founder and creative director of [Super Friendly](http://superfriend.ly/) to do a webcast called [Design deliverables for a post-comp era](http://typecast.com/seminars/post-comp).
 
 <a href="http://typecast.com/seminars/post-comp"><img src="/images/typcast-deign-deliverables.jpg" class="img-responsive" alt="Design deliverables for a post-comp era"></a>
 
